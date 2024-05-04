@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89500936905",
+    "project_id": "push-notification-3d1c7",
+    "storage_bucket": "push-notification-3d1c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89500936905:android:d877d9e1c53d1b3baa3b18",
+        "android_client_info": {
+          "package_name": "com.vimukthi.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgqWQq9Xni6VLsMOdA3DxX617O1EyAn8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
