@@ -1,4 +1,5 @@
 Vimukthi Madushan Ranasinghe
+I take complete this task nearly 10 hours.
 vimukthiranasinghe084@gmail.com
 Use raectnative expo.
 To get push notification use the nativenotify.com.
